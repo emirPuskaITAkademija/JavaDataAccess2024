@@ -1,0 +1,6 @@
+012345678;Ismet;Omerović;23
+012345672;Kanita;Berbić;13
+012345674;Arman;Kovačević;23
+012345676;Adis;Sućeska;33
+012345670;Mile;Vukajlović;18
+012345674;Arman;Kovačević;23
